@@ -16,7 +16,7 @@ You can find implementations of these projects in many other languages by other 
 
 ## Credits
 
-This repo was compiled by [Karan Goel](http://twitter.com/karangoel).
+This repo was compiled by [Sricharan Dugyala]
 
 Problems are motivated by the ones shared at:
 
